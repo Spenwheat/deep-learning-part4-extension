@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this Part IV companion in your research or writing, please cite it as below."
+authors:
+  - family-names: Wheat
+    given-names: Spencer
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # optional, replace with your ORCID if you have one
+title: "Part IV: Frontiers in Deep Learning (Unofficial Companion)"
+version: 1.0.0
+date-released: 2025-09-01
+url: "https://github.com/spenwheat/deep-learning-part4-extension"
+repository-code: "https://github.com/spenwheat/deep-learning-part4-extension"
+license: MIT
+abstract: >
+  The official Deep Learning book ends at Part III, Chapter 20. 
+  This unofficial companion proposes a Part IV — extending the text into frontier topics 
+  such as Variational Inference, Transformers, Diffusion Models, Multimodal & Foundation Models, 
+  and Future Directions. Created during independent study and AI prototyping, shared to support learners.
