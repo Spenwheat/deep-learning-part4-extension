@@ -12,7 +12,8 @@ If you use this work in your research, teaching, or writing, please cite it as:
   author       = {Spencer Wheat},
   title        = {Part IV: Frontiers in Deep Learning (Unofficial Companion)},
   year         = {2025},
-  version      = {1.0.0},
-  howpublished = {\url{https://github.com/spenwheat/deep-learning-part4-extension}},
+  version      = {v1.0.0},
+  howpublished = {\url{https://github.com/spenwheat/deep-learning-part4-extension/releases/tag/v1.0.0}},
   note         = {An independent companion extending the Deep Learning textbook (Goodfellow, Bengio, Courville) into modern topics such as Variational Inference, Transformers, Diffusion Models, and Foundation Models.}
 }
+
